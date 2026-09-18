@@ -8,3 +8,9 @@ This repository is used to practice GitHub document management and collaboration
 - Practice document version control
 - Learn repository organization
 - Practice collaborative document workflows
+
+## Current Progress
+
+- Repository created
+- Git configured
+- Repository cloned to local computer
