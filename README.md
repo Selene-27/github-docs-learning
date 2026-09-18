@@ -14,3 +14,4 @@ This repository is used to practice GitHub document management and collaboration
 - Repository created
 - Git configured
 - Repository cloned to local computer
+- Practice remote-to-local synchronization
